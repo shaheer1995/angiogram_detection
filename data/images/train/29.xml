@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>1.jpg</filename>
-	<path>H:\SCS\AHS_Project\Dataset\img\1.jpg</path>
+	<filename>29.jpg</filename>
+	<path>H:\SCS\AHS_Project\Dataset\img\29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>512</height>
+		<width>1024</width>
+		<height>1024</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>302</ymin>
-			<xmax>304</xmax>
-			<ymax>344</ymax>
+			<xmin>225</xmin>
+			<ymin>352</ymin>
+			<xmax>349</xmax>
+			<ymax>433</ymax>
 		</bndbox>
 	</object>
 </annotation>
