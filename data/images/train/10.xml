@@ -1,7 +1,7 @@
 <annotation>
-	<folder>new Dataset</folder>
+	<folder>train</folder>
 	<filename>10.jpg</filename>
-	<path>H:\SCS\AHS_Project\Dataset\new Dataset\63.jpg</path>
+	<path>H:\Repositories\MY_Github\angiogram_detection\data\images\train\10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>261</xmin>
-			<ymin>296</ymin>
-			<xmax>293</xmax>
-			<ymax>357</ymax>
+			<xmin>244</xmin>
+			<ymin>290</ymin>
+			<xmax>305</xmax>
+			<ymax>367</ymax>
 		</bndbox>
 	</object>
 </annotation>

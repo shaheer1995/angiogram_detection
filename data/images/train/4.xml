@@ -1,7 +1,7 @@
 <annotation>
-	<folder>jpg images original</folder>
+	<folder>train</folder>
 	<filename>4.jpg</filename>
-	<path>C:\Users\Nishani shamalka\Desktop\RESEARCH\jpg images original\29.jpg</path>
+	<path>H:\Repositories\MY_Github\angiogram_detection\data\images\train\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>342</ymin>
-			<xmax>332</xmax>
-			<ymax>430</ymax>
+			<xmin>216</xmin>
+			<ymin>318</ymin>
+			<xmax>361</xmax>
+			<ymax>464</ymax>
 		</bndbox>
 	</object>
 </annotation>
