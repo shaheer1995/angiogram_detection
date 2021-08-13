@@ -1,7 +1,7 @@
 <annotation>
-	<folder>jpg images original</folder>
-	<filename>63.jpg</filename>
-	<path>C:\Users\Nishani shamalka\Desktop\RESEARCH\jpg images original\63.jpg</path>
+	<folder>new Dataset</folder>
+	<filename>64.jpg</filename>
+	<path>H:\SCS\AHS_Project\Dataset\new Dataset\64.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>261</xmin>
-			<ymin>296</ymin>
-			<xmax>292</xmax>
-			<ymax>368</ymax>
+			<xmin>78</xmin>
+			<ymin>204</ymin>
+			<xmax>125</xmax>
+			<ymax>252</ymax>
 		</bndbox>
 	</object>
 </annotation>
