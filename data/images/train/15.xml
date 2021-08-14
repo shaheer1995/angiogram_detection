@@ -1,7 +1,7 @@
 <annotation>
 	<folder>jpg images original</folder>
-	<filename>11.jpg</filename>
-	<path>C:\Users\Nishani shamalka\Desktop\RESEARCH\jpg images original\11.jpg</path>
+	<filename>15.jpg</filename>
+	<path>C:\Users\Nishani shamalka\Desktop\RESEARCH\jpg images original\15.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>555</xmin>
-			<ymin>316</ymin>
-			<xmax>655</xmax>
-			<ymax>407</ymax>
+			<xmin>363</xmin>
+			<ymin>338</ymin>
+			<xmax>461</xmax>
+			<ymax>422</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>467</xmin>
-			<ymin>147</ymin>
-			<xmax>543</xmax>
-			<ymax>217</ymax>
+			<xmin>374</xmin>
+			<ymin>447</ymin>
+			<xmax>457</xmax>
+			<ymax>527</ymax>
 		</bndbox>
 	</object>
 </annotation>
